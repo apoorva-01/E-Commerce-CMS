@@ -1,0 +1,26 @@
+{
+  "title": "Junky Jewellery Store",
+  "titleTemplate": "%s -  Known for Affordable Range of Junky Jewels for Daily Wear💖",
+  "description": "Junky Jewellery Store | Known for Affordable Range of Junky Jewels for Daily Wear💖",
+  "openGraph": {
+    "title": "Junky Jewellery Store | Oxidized Junky Jewellery at affordable price",
+    "description": "Known for Affordable Junky Jewellery for Daily Wear💖. We help you make shine everyday with best and affordable Junky Jewellery. We are experts on Oxidized, German Silver, Junk Jewellery",
+    "type": "website",
+    "locale": "en_IE",
+    "url": "https://junkyjewellerystore.in",
+    "site_name": "Junky Jewellery Store - is an Junky Jewellery Online Store providing quality products at Affordable Price. We are experts on Oxidized, German Silver, Junk Jewellery.",
+    "images": [
+      {
+        "url": "/logo.svg",
+        "width": 800,
+        "height": 600,
+        "alt": "Junky Jewellery Store - is an Junky Jewellery Online Store providing quality products at Affordable Price"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@junkyjewellerystore",
+    "site": "@junkyjewellerystore",
+    "cardType": "summary_large_image"
+  }
+}
