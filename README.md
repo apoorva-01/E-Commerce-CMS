@@ -146,7 +146,7 @@ yarn lint         # lint
 
 - GitHub: [@apoorva-01](https://github.com/apoorva-01/)
 - LinkedIn: [apoorva0510](https://www.linkedin.com/in/apoorva0510/)
-- Portfolio: [apoorva-verma.netlify.app](https://apoorva-verma.netlify.app/)
+- Portfolio: [apoorvaverma.in](https://apoorvaverma.in/)
 
 ---
 
