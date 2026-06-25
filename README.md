@@ -4,6 +4,8 @@
 
 Built on top of the open-source [Next.js Commerce](https://github.com/vercel/commerce) storefront, extended with a custom MongoDB backend, a complete merchant admin dashboard, authentication, and real payment & shipping integrations.
 
+![Make My Commerce](https://github.com/apoorva-01/E-Commerce-CMS/releases/download/demo-media/banner.png)
+
 ---
 
 ## Demo
